@@ -1,9 +1,9 @@
 <?php
 
 return array(
-    'host' => 'localhost',
-    'dbname' => 'name',
-    'user' => 'user',
-    'password' => 'pass',
+    'host' => '',
+    'dbname' => 'test_task',
+    'user' => '',
+    'password' => '',
 );
 
